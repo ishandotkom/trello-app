@@ -170,7 +170,7 @@ app.get("/issues", (req, res) => {});
 
 app.get("/members", (req, res) => {});
 
-// UPDATE
+// UPDATE   
 app.put("/issues", (req, res) => {});
 
 //DELETE -- FIND THE GBUG and fix it
